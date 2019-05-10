@@ -1,0 +1,4 @@
+2 3 3 A S a $
+S-aS/bA/a/$
+A-aA/bB/a
+B-aB/a
